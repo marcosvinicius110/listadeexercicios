@@ -26,4 +26,4 @@ if(senha=== "toscão67sixseven"){
 
 //Criar um programa que mostre um desconto de 5% para compras maiores que R$100
 //Criar um programa que classifique uma pessoa como Criança, adolescente ou adulto de acordo com a idade
-//Criar um programa que mostre qual tipo de triângulo de acordo 
+//Criar um programa que mostre qual tipo de triângulo de acordo
